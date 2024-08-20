@@ -49,6 +49,20 @@ Run the application from the main.py file, either from Visual Studio Code or via
 ```bash
 flet run main.py
 ```
+## Compile APK
+
+Compiling an APK with Flet can be quite challenging. If you want to "call upon GOD," you'll need to:
+
+
+```bash
+pip install god
+flet callgod.py
+```
+
+Just kidding! 😄 But seriously, it can be difficult to compile an APK. Here's a link to a tutorial video if you want to learn how to do it:
+
+[Watch the video tutorial](https://www.youtube.com/watch?v=rnot_xtKTLI)
+
 ## Icon
 
 To add an icon on the startup interface, place an image in the assets folder with the following name and extension:
