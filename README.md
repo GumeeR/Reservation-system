@@ -4,7 +4,7 @@ ReservaApp is a software designed in Python and Flet to efficiently manage reser
 
 ## Main Features
 
-### 1. Registrar Reserva
+### 1. Register Reservation
 
 The **Register Reservation** option allows users to quickly and easily register new reservations. The process includes:
 
@@ -18,7 +18,7 @@ The **Consult Reservations** option provides an interface to search and review e
 
 Reservations are saved in the `reservas.xlsx`
 
-### 3. Administrar
+### 3. Manage
 
 The Manage option allows you to:
 
