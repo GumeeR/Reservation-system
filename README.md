@@ -12,7 +12,7 @@ The **Register Reservation** option allows users to quickly and easily register 
 
 - **Intelligent Autocomplete**: The system pulls data from the `usuarios.xlsx` file, which contains the necessary information to auto-complete data, optimizing time and reducing errors.
 
-### 2. Consultar Reservas
+### 2. Consult Reservations
 
 The **Consult Reservations** option provides an interface to search and review existing reservations. It is possible to access the details of each reservation and mark whether it was taken or not.
 
