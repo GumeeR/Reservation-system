@@ -1,7 +1,3 @@
-# ReservaApp
-
-ReservaApp is a software designed in Python and Flet to efficiently manage reservations. Its intuitive interface facilitates both the registration and the consultation of reservations.
-
 ## Main Features
 
 ### 1. Register Reservation
